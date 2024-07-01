@@ -1,0 +1,705 @@
+[12598.803950] type=1400 audit(1716932505.916:258227): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12598.805458] type=1400 audit(1716932505.916:258228): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12599.807937] audit: audit_lost=213572 audit_rate_limit=5 audit_backlog_limit=64
+[12599.808126] type=1400 audit(1716932506.924:258253): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12599.808269] audit: rate limit exceeded
+[12599.809765] type=1400 audit(1716932506.924:258254): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12599.811602] type=1400 audit(1716932506.924:258255): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12599.813200] type=1400 audit(1716932506.924:258256): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12599.814707] type=1400 audit(1716932506.924:258257): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12600.815325] audit: audit_lost=213598 audit_rate_limit=5 audit_backlog_limit=64
+[12600.815501] type=1400 audit(1716932507.932:258284): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12600.815851] audit: rate limit exceeded
+[12600.816737] type=1400 audit(1716932507.932:258285): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12600.818056] type=1400 audit(1716932507.932:258286): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12600.819068] type=1400 audit(1716932507.932:258287): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12600.819959] type=1400 audit(1716932507.932:258288): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12601.826319] audit: audit_lost=213622 audit_rate_limit=5 audit_backlog_limit=64
+[12601.826369] type=1400 audit(1716932508.944:258313): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12601.826948] audit: rate limit exceeded
+[12601.828458] type=1400 audit(1716932508.944:258314): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12601.830364] type=1400 audit(1716932508.944:258315): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12601.831955] type=1400 audit(1716932508.944:258316): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12601.833498] type=1400 audit(1716932508.944:258317): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12602.841057] audit: audit_lost=213646 audit_rate_limit=5 audit_backlog_limit=64
+[12602.841201] type=1400 audit(1716932509.960:258342): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12602.841580] audit: rate limit exceeded
+[12602.842972] type=1400 audit(1716932509.960:258343): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12602.844934] type=1400 audit(1716932509.960:258344): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12602.846653] type=1400 audit(1716932509.960:258345): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12602.848222] type=1400 audit(1716932509.960:258346): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12603.852345] audit: audit_lost=213670 audit_rate_limit=5 audit_backlog_limit=64
+[12603.852497] type=1400 audit(1716932510.972:258371): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12603.852883] audit: rate limit exceeded
+[12603.854272] type=1400 audit(1716932510.972:258372): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12603.856238] type=1400 audit(1716932510.972:258373): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12603.857856] type=1400 audit(1716932510.972:258374): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12603.859413] type=1400 audit(1716932510.972:258375): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12604.864857] audit: audit_lost=213694 audit_rate_limit=5 audit_backlog_limit=64
+[12604.864996] type=1400 audit(1716932511.984:258400): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12604.865176] audit: rate limit exceeded
+[12604.866574] type=1400 audit(1716932511.984:258401): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12604.868324] type=1400 audit(1716932511.984:258402): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12604.869971] type=1400 audit(1716932511.984:258403): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12604.871680] type=1400 audit(1716932511.984:258404): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12605.873318] audit: audit_lost=213718 audit_rate_limit=5 audit_backlog_limit=64
+[12605.873476] type=1400 audit(1716932512.992:258429): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12605.873849] audit: rate limit exceeded
+[12605.875242] type=1400 audit(1716932512.992:258430): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12605.877012] type=1400 audit(1716932512.992:258431): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12605.878213] type=1400 audit(1716932512.992:258432): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12605.879688] type=1400 audit(1716932512.992:258433): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12606.885506] audit: audit_lost=213742 audit_rate_limit=5 audit_backlog_limit=64
+[12606.885643] type=1400 audit(1716932514.004:258458): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12606.886047] audit: rate limit exceeded
+[12606.886918] type=1400 audit(1716932514.004:258459): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12606.888331] type=1400 audit(1716932514.004:258460): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12606.889493] type=1400 audit(1716932514.004:258461): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12606.890616] type=1400 audit(1716932514.004:258462): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12607.897521] audit: audit_lost=213766 audit_rate_limit=5 audit_backlog_limit=64
+[12607.897695] type=1400 audit(1716932515.016:258487): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12607.898050] audit: rate limit exceeded
+[12607.898898] type=1400 audit(1716932515.016:258488): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12607.900279] type=1400 audit(1716932515.016:258489): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12607.901281] type=1400 audit(1716932515.016:258490): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12607.902129] type=1400 audit(1716932515.016:258491): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12608.909091] audit: audit_lost=213790 audit_rate_limit=5 audit_backlog_limit=64
+[12608.909354] type=1400 audit(1716932516.028:258516): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12608.909422] audit: rate limit exceeded
+[12608.910820] type=1400 audit(1716932516.028:258517): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12608.912641] type=1400 audit(1716932516.028:258518): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12608.914266] type=1400 audit(1716932516.028:258519): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12608.915772] type=1400 audit(1716932516.028:258520): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12609.916407] audit: audit_lost=213814 audit_rate_limit=5 audit_backlog_limit=64
+[12609.916482] type=1400 audit(1716932517.036:258545): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12609.916800] audit: rate limit exceeded
+[12609.917808] type=1400 audit(1716932517.036:258546): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12609.919263] type=1400 audit(1716932517.036:258547): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12609.920568] type=1400 audit(1716932517.036:258548): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12609.922099] type=1400 audit(1716932517.036:258549): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12610.412555] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[12610.925202] audit: audit_lost=213838 audit_rate_limit=5 audit_backlog_limit=64
+[12610.925400] type=1400 audit(1716932518.044:258574): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12610.925548] audit: rate limit exceeded
+[12610.926959] type=1400 audit(1716932518.044:258575): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12610.928810] type=1400 audit(1716932518.044:258576): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12610.930540] type=1400 audit(1716932518.044:258577): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12610.932254] type=1400 audit(1716932518.044:258578): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12611.932801] audit: audit_lost=213862 audit_rate_limit=5 audit_backlog_limit=64
+[12611.932902] type=1400 audit(1716932519.052:258603): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12611.933268] audit: rate limit exceeded
+[12611.934465] type=1400 audit(1716932519.052:258604): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12611.935844] type=1400 audit(1716932519.052:258605): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12611.938071] type=1400 audit(1716932519.052:258606): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12611.941850] type=1400 audit(1716932519.052:258607): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12612.943367] audit: audit_lost=213886 audit_rate_limit=5 audit_backlog_limit=64
+[12612.943532] type=1400 audit(1716932520.060:258632): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12612.943902] audit: rate limit exceeded
+[12612.945324] type=1400 audit(1716932520.060:258633): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12612.947080] type=1400 audit(1716932520.060:258634): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12612.948313] type=1400 audit(1716932520.060:258635): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12612.949184] type=1400 audit(1716932520.060:258636): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12613.954284] audit: audit_lost=213910 audit_rate_limit=5 audit_backlog_limit=64
+[12613.954476] type=1400 audit(1716932521.072:258661): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12613.954818] audit: rate limit exceeded
+[12613.956262] type=1400 audit(1716932521.072:258662): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12613.958117] type=1400 audit(1716932521.072:258663): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12613.959754] type=1400 audit(1716932521.072:258664): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12613.961359] type=1400 audit(1716932521.072:258665): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12614.964222] type=1400 audit(1716932522.084:258690): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12614.964225] audit: audit_lost=213934 audit_rate_limit=5 audit_backlog_limit=64
+[12614.965174] type=1400 audit(1716932522.084:258691): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12614.965863] audit: rate limit exceeded
+[12614.966969] type=1400 audit(1716932522.084:258692): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12614.967812] type=1400 audit(1716932522.084:258693): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12614.968788] type=1400 audit(1716932522.084:258694): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12615.976043] audit: audit_lost=213958 audit_rate_limit=5 audit_backlog_limit=64
+[12615.976250] type=1400 audit(1716932523.092:258719): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12615.976598] audit: rate limit exceeded
+[12615.978059] type=1400 audit(1716932523.092:258720): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12615.979928] type=1400 audit(1716932523.092:258721): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12615.981271] type=1400 audit(1716932523.092:258722): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12615.982378] type=1400 audit(1716932523.092:258723): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12616.985276] audit: audit_lost=213982 audit_rate_limit=5 audit_backlog_limit=64
+[12616.985429] type=1400 audit(1716932524.104:258748): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12616.985595] audit: rate limit exceeded
+[12616.986989] type=1400 audit(1716932524.104:258749): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12616.988741] type=1400 audit(1716932524.104:258750): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12616.990282] type=1400 audit(1716932524.104:258751): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12616.991829] type=1400 audit(1716932524.104:258752): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12617.992451] audit: audit_lost=214006 audit_rate_limit=5 audit_backlog_limit=64
+[12617.992519] type=1400 audit(1716932525.112:258777): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12617.992789] audit: rate limit exceeded
+[12617.994188] type=1400 audit(1716932525.112:258778): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12617.995682] type=1400 audit(1716932525.112:258779): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12617.996715] type=1400 audit(1716932525.112:258780): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12617.997671] type=1400 audit(1716932525.112:258781): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12619.000136] audit: audit_lost=214030 audit_rate_limit=5 audit_backlog_limit=64
+[12619.000228] type=1400 audit(1716932526.116:258806): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12619.000662] audit: rate limit exceeded
+[12619.002051] type=1400 audit(1716932526.116:258807): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12619.003918] type=1400 audit(1716932526.116:258808): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12619.005681] type=1400 audit(1716932526.120:258809): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12619.007200] type=1400 audit(1716932526.120:258810): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12620.012971] audit: audit_lost=214054 audit_rate_limit=5 audit_backlog_limit=64
+[12620.013095] type=1400 audit(1716932527.132:258835): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12620.013503] audit: rate limit exceeded
+[12620.014892] type=1400 audit(1716932527.132:258836): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12620.016383] type=1400 audit(1716932527.132:258837): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12620.017961] type=1400 audit(1716932527.132:258838): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12620.019552] type=1400 audit(1716932527.132:258839): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12621.026024] audit: audit_lost=214078 audit_rate_limit=5 audit_backlog_limit=64
+[12621.026196] type=1400 audit(1716932528.144:258864): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12621.026557] audit: rate limit exceeded
+[12621.027395] type=1400 audit(1716932528.144:258865): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12621.028849] type=1400 audit(1716932528.144:258866): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12621.030004] type=1400 audit(1716932528.144:258867): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12621.030951] type=1400 audit(1716932528.144:258868): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12622.037871] audit: audit_lost=214102 audit_rate_limit=5 audit_backlog_limit=64
+[12622.037968] type=1400 audit(1716932529.156:258893): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12622.038421] audit: rate limit exceeded
+[12622.039263] type=1400 audit(1716932529.156:258894): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12622.040455] type=1400 audit(1716932529.156:258895): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12622.041512] type=1400 audit(1716932529.156:258896): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12622.042987] type=1400 audit(1716932529.156:258897): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12623.045945] audit: audit_lost=214126 audit_rate_limit=5 audit_backlog_limit=64
+[12623.046016] type=1400 audit(1716932530.164:258922): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12623.046517] audit: rate limit exceeded
+[12623.048016] type=1400 audit(1716932530.164:258923): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12623.049812] type=1400 audit(1716932530.164:258924): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12623.051649] type=1400 audit(1716932530.164:258925): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12623.052720] type=1400 audit(1716932530.164:258926): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12624.055735] audit: audit_lost=214150 audit_rate_limit=5 audit_backlog_limit=64
+[12624.055902] type=1400 audit(1716932531.172:258951): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12624.056113] audit: rate limit exceeded
+[12624.057513] type=1400 audit(1716932531.172:258952): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12624.059396] type=1400 audit(1716932531.172:258953): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12624.061424] type=1400 audit(1716932531.172:258954): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12624.063046] type=1400 audit(1716932531.172:258955): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12625.066104] audit: audit_lost=214174 audit_rate_limit=5 audit_backlog_limit=64
+[12625.066215] type=1400 audit(1716932532.184:258980): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12625.066672] audit: rate limit exceeded
+[12625.068253] type=1400 audit(1716932532.184:258981): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12625.070194] type=1400 audit(1716932532.184:258982): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12625.071940] type=1400 audit(1716932532.184:258983): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12625.073448] type=1400 audit(1716932532.184:258984): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12626.077757] audit: audit_lost=214198 audit_rate_limit=5 audit_backlog_limit=64
+[12626.077971] type=1400 audit(1716932533.196:259009): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12626.078084] audit: rate limit exceeded
+[12626.079490] type=1400 audit(1716932533.196:259010): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12626.081273] type=1400 audit(1716932533.196:259011): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12626.082959] type=1400 audit(1716932533.196:259012): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12626.084496] type=1400 audit(1716932533.196:259013): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12627.085222] audit: audit_lost=214222 audit_rate_limit=5 audit_backlog_limit=64
+[12627.085303] type=1400 audit(1716932534.204:259038): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12627.085577] audit: rate limit exceeded
+[12627.087026] type=1400 audit(1716932534.204:259039): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12627.088995] type=1400 audit(1716932534.204:259040): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12627.090889] type=1400 audit(1716932534.204:259041): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12627.092747] type=1400 audit(1716932534.204:259042): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12628.097127] audit: audit_lost=214246 audit_rate_limit=5 audit_backlog_limit=64
+[12628.097343] type=1400 audit(1716932535.216:259067): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12628.097563] audit: rate limit exceeded
+[12628.098959] type=1400 audit(1716932535.216:259068): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12628.100834] type=1400 audit(1716932535.216:259069): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12628.102145] type=1400 audit(1716932535.216:259070): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12628.103263] type=1400 audit(1716932535.216:259071): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12629.109719] audit: audit_lost=214270 audit_rate_limit=5 audit_backlog_limit=64
+[12629.109898] type=1400 audit(1716932536.228:259096): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12629.110257] audit: rate limit exceeded
+[12629.111674] type=1400 audit(1716932536.228:259097): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12629.113537] type=1400 audit(1716932536.228:259098): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12629.115140] type=1400 audit(1716932536.228:259099): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12629.116689] type=1400 audit(1716932536.228:259100): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12630.120518] audit: audit_lost=214294 audit_rate_limit=5 audit_backlog_limit=64
+[12630.120702] type=1400 audit(1716932537.240:259125): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12630.120884] audit: rate limit exceeded
+[12630.121904] type=1400 audit(1716932537.240:259126): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12630.123328] type=1400 audit(1716932537.240:259127): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12630.124224] type=1400 audit(1716932537.240:259128): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12630.125186] type=1400 audit(1716932537.240:259129): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12631.129851] audit: audit_lost=214318 audit_rate_limit=5 audit_backlog_limit=64
+[12631.129995] type=1400 audit(1716932538.248:259154): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12631.130381] audit: rate limit exceeded
+[12631.131242] type=1400 audit(1716932538.248:259155): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12631.132360] type=1400 audit(1716932538.248:259156): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12631.133395] type=1400 audit(1716932538.248:259157): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12631.134404] type=1400 audit(1716932538.248:259158): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12632.140855] audit: audit_lost=214344 audit_rate_limit=5 audit_backlog_limit=64
+[12632.140997] type=1400 audit(1716932539.260:259185): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12632.141385] audit: rate limit exceeded
+[12632.142222] type=1400 audit(1716932539.260:259186): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12632.143620] type=1400 audit(1716932539.260:259187): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12632.144701] type=1400 audit(1716932539.260:259188): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12632.145731] type=1400 audit(1716932539.260:259189): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12633.152831] audit: audit_lost=214368 audit_rate_limit=5 audit_backlog_limit=64
+[12633.152937] type=1400 audit(1716932540.272:259214): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12633.153362] audit: rate limit exceeded
+[12633.154206] type=1400 audit(1716932540.272:259215): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12633.155523] type=1400 audit(1716932540.272:259216): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12633.156548] type=1400 audit(1716932540.272:259217): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12633.157472] type=1400 audit(1716932540.272:259218): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12634.162193] audit: audit_lost=214392 audit_rate_limit=5 audit_backlog_limit=64
+[12634.162343] type=1400 audit(1716932541.280:259243): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12634.162722] audit: rate limit exceeded
+[12634.163595] type=1400 audit(1716932541.280:259244): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12634.164827] type=1400 audit(1716932541.280:259245): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12634.166495] type=1400 audit(1716932541.280:259246): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12634.167952] type=1400 audit(1716932541.280:259247): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12635.173002] audit: audit_lost=214416 audit_rate_limit=5 audit_backlog_limit=64
+[12635.173226] type=1400 audit(1716932542.292:259272): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12635.173547] audit: rate limit exceeded
+[12635.174953] type=1400 audit(1716932542.292:259273): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12635.176874] type=1400 audit(1716932542.292:259274): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12635.178524] type=1400 audit(1716932542.292:259275): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12635.179736] type=1400 audit(1716932542.292:259276): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12636.185340] audit: audit_lost=214440 audit_rate_limit=5 audit_backlog_limit=64
+[12636.185519] type=1400 audit(1716932543.304:259301): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12636.185660] audit: rate limit exceeded
+[12636.187079] type=1400 audit(1716932543.304:259302): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12636.188884] type=1400 audit(1716932543.304:259303): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12636.190536] type=1400 audit(1716932543.304:259304): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12636.191664] type=1400 audit(1716932543.304:259305): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12637.196111] audit: audit_lost=214464 audit_rate_limit=5 audit_backlog_limit=64
+[12637.196179] type=1400 audit(1716932544.312:259330): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12637.196647] audit: rate limit exceeded
+[12637.197480] type=1400 audit(1716932544.312:259331): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12637.198738] type=1400 audit(1716932544.316:259332): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12637.199636] type=1400 audit(1716932544.316:259333): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12637.200678] type=1400 audit(1716932544.316:259334): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12638.205808] audit: audit_lost=214488 audit_rate_limit=5 audit_backlog_limit=64
+[12638.205846] type=1400 audit(1716932545.324:259359): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12638.206341] audit: rate limit exceeded
+[12638.207251] type=1400 audit(1716932545.324:259360): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12638.208430] type=1400 audit(1716932545.324:259361): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12638.209363] type=1400 audit(1716932545.324:259362): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12638.210325] type=1400 audit(1716932545.324:259363): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12639.214457] audit: audit_lost=214512 audit_rate_limit=5 audit_backlog_limit=64
+[12639.214645] type=1400 audit(1716932546.332:259388): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12639.214796] audit: rate limit exceeded
+[12639.215674] type=1400 audit(1716932546.332:259389): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12639.216975] type=1400 audit(1716932546.332:259390): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12639.218045] type=1400 audit(1716932546.332:259391): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12639.219243] type=1400 audit(1716932546.332:259392): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12640.221282] audit: audit_lost=214536 audit_rate_limit=5 audit_backlog_limit=64
+[12640.221376] type=1400 audit(1716932547.340:259417): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12640.221811] audit: rate limit exceeded
+[12640.223222] type=1400 audit(1716932547.340:259418): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12640.225173] type=1400 audit(1716932547.340:259419): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12640.226761] type=1400 audit(1716932547.340:259420): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12640.228491] type=1400 audit(1716932547.340:259421): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12641.232648] audit: audit_lost=214560 audit_rate_limit=5 audit_backlog_limit=64
+[12641.232873] type=1400 audit(1716932548.352:259446): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12641.232985] audit: rate limit exceeded
+[12641.234370] type=1400 audit(1716932548.352:259447): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12641.235658] type=1400 audit(1716932548.352:259448): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12641.236757] type=1400 audit(1716932548.352:259449): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12641.237763] type=1400 audit(1716932548.352:259450): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12642.244604] audit: audit_lost=214584 audit_rate_limit=5 audit_backlog_limit=64
+[12642.244718] type=1400 audit(1716932549.364:259475): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12642.245140] audit: rate limit exceeded
+[12642.246543] type=1400 audit(1716932549.364:259476): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12642.248363] type=1400 audit(1716932549.364:259477): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12642.249898] type=1400 audit(1716932549.364:259478): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12642.251532] type=1400 audit(1716932549.364:259479): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12643.251979] audit: audit_lost=214608 audit_rate_limit=5 audit_backlog_limit=64
+[12643.252099] type=1400 audit(1716932550.368:259504): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12643.252555] audit: rate limit exceeded
+[12643.254108] type=1400 audit(1716932550.368:259505): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12643.256498] type=1400 audit(1716932550.368:259506): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12643.258217] type=1400 audit(1716932550.368:259507): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12643.259324] type=1400 audit(1716932550.368:259508): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12644.266415] type=1400 audit(1716932551.384:259533): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12644.266418] audit: audit_lost=214632 audit_rate_limit=5 audit_backlog_limit=64
+[12644.267393] type=1400 audit(1716932551.384:259534): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12644.268170] audit: rate limit exceeded
+[12644.269576] type=1400 audit(1716932551.384:259535): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12644.270568] type=1400 audit(1716932551.384:259536): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12644.271471] type=1400 audit(1716932551.384:259537): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12645.278229] audit: audit_lost=214656 audit_rate_limit=5 audit_backlog_limit=64
+[12645.278374] type=1400 audit(1716932552.396:259562): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12645.278821] audit: rate limit exceeded
+[12645.279702] type=1400 audit(1716932552.396:259563): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12645.281163] type=1400 audit(1716932552.396:259564): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12645.282432] type=1400 audit(1716932552.396:259565): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12645.283564] type=1400 audit(1716932552.396:259566): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12646.288898] audit: audit_lost=214680 audit_rate_limit=5 audit_backlog_limit=64
+[12646.289057] type=1400 audit(1716932553.408:259591): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12646.289435] audit: rate limit exceeded
+[12646.290287] type=1400 audit(1716932553.408:259592): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12646.292217] type=1400 audit(1716932553.408:259593): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12646.293901] type=1400 audit(1716932553.408:259594): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12646.295471] type=1400 audit(1716932553.408:259595): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12647.299983] audit: audit_lost=214706 audit_rate_limit=5 audit_backlog_limit=64
+[12647.300003] type=1400 audit(1716932554.416:259622): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12647.300344] audit: rate limit exceeded
+[12647.301240] type=1400 audit(1716932554.416:259623): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12647.302359] type=1400 audit(1716932554.416:259624): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12647.303258] type=1400 audit(1716932554.416:259625): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12647.304153] type=1400 audit(1716932554.416:259626): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12648.306882] audit: audit_lost=214730 audit_rate_limit=5 audit_backlog_limit=64
+[12648.307106] type=1400 audit(1716932555.424:259651): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12648.307412] audit: rate limit exceeded
+[12648.308819] type=1400 audit(1716932555.424:259652): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12648.310620] type=1400 audit(1716932555.424:259653): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12648.312055] type=1400 audit(1716932555.424:259654): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12648.313540] type=1400 audit(1716932555.424:259655): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12649.319192] audit: audit_lost=214754 audit_rate_limit=5 audit_backlog_limit=64
+[12649.319383] type=1400 audit(1716932556.436:259680): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12649.319734] audit: rate limit exceeded
+[12649.321195] type=1400 audit(1716932556.436:259681): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12649.323431] type=1400 audit(1716932556.436:259682): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12649.325528] type=1400 audit(1716932556.436:259683): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12649.327138] type=1400 audit(1716932556.436:259684): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12650.333379] audit: audit_lost=214778 audit_rate_limit=5 audit_backlog_limit=64
+[12650.333542] type=1400 audit(1716932557.452:259709): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12650.333724] audit: rate limit exceeded
+[12650.334613] type=1400 audit(1716932557.452:259710): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12650.335904] type=1400 audit(1716932557.452:259711): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12650.336961] type=1400 audit(1716932557.452:259712): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12650.337949] type=1400 audit(1716932557.452:259713): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12651.340400] audit: audit_lost=214802 audit_rate_limit=5 audit_backlog_limit=64
+[12651.340626] type=1400 audit(1716932558.460:259738): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12651.340725] audit: rate limit exceeded
+[12651.342120] type=1400 audit(1716932558.460:259739): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12651.343992] type=1400 audit(1716932558.460:259740): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12651.345614] type=1400 audit(1716932558.460:259741): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12651.347277] type=1400 audit(1716932558.460:259742): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12652.350454] audit: audit_lost=214826 audit_rate_limit=5 audit_backlog_limit=64
+[12652.350528] type=1400 audit(1716932559.468:259767): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12652.350772] audit: rate limit exceeded
+[12652.352178] type=1400 audit(1716932559.468:259768): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12652.353924] type=1400 audit(1716932559.468:259769): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12652.355648] type=1400 audit(1716932559.468:259770): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12652.356851] type=1400 audit(1716932559.468:259771): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12653.361154] audit: audit_lost=214850 audit_rate_limit=5 audit_backlog_limit=64
+[12653.361265] type=1400 audit(1716932560.480:259796): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12653.361696] audit: rate limit exceeded
+[12653.363104] type=1400 audit(1716932560.480:259797): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12653.365047] type=1400 audit(1716932560.480:259798): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12653.366723] type=1400 audit(1716932560.480:259799): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12653.368330] type=1400 audit(1716932560.480:259800): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12654.360404] binder_alloc: 14116: binder_alloc_buf, no vma
+[12654.360912] binder: 547:1623 transaction failed 29189/-3, size 64-0 line 2863
+[12654.370165] type=1400 audit(1716932561.488:259825): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12654.370188] audit: audit_lost=214874 audit_rate_limit=5 audit_backlog_limit=64
+[12654.371899] type=1400 audit(1716932561.488:259826): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12654.374249] type=1400 audit(1716932561.488:259827): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12654.374274] audit: rate limit exceeded
+[12654.375755] type=1400 audit(1716932561.488:259828): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12654.379538] type=1400 audit(1716932561.488:259829): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12655.392870] audit: audit_lost=214898 audit_rate_limit=5 audit_backlog_limit=64
+[12655.392970] type=1400 audit(1716932562.512:259854): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12655.393402] audit: rate limit exceeded
+[12655.394281] type=1400 audit(1716932562.512:259855): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12655.396199] type=1400 audit(1716932562.512:259856): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12655.397850] type=1400 audit(1716932562.512:259857): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12655.399613] type=1400 audit(1716932562.512:259858): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12656.401137] audit: audit_lost=214922 audit_rate_limit=5 audit_backlog_limit=64
+[12656.401216] type=1400 audit(1716932563.520:259883): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12656.401481] audit: rate limit exceeded
+[12656.402379] type=1400 audit(1716932563.520:259884): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12656.403662] type=1400 audit(1716932563.520:259885): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12656.405247] type=1400 audit(1716932563.520:259886): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12656.406835] type=1400 audit(1716932563.520:259887): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12657.410356] audit: audit_lost=214946 audit_rate_limit=5 audit_backlog_limit=64
+[12657.410624] type=1400 audit(1716932564.528:259912): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12657.410899] audit: rate limit exceeded
+[12657.412331] type=1400 audit(1716932564.528:259913): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12657.413932] type=1400 audit(1716932564.528:259914): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12657.415332] type=1400 audit(1716932564.528:259915): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12657.416893] type=1400 audit(1716932564.528:259916): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12658.420897] audit: audit_lost=214970 audit_rate_limit=5 audit_backlog_limit=64
+[12658.421052] type=1400 audit(1716932565.540:259941): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12658.421439] audit: rate limit exceeded
+[12658.422371] type=1400 audit(1716932565.540:259942): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12658.424179] type=1400 audit(1716932565.540:259943): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12658.425923] type=1400 audit(1716932565.540:259944): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12658.427094] type=1400 audit(1716932565.540:259945): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12659.431468] audit: audit_lost=214994 audit_rate_limit=5 audit_backlog_limit=64
+[12659.431561] type=1400 audit(1716932566.548:259970): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12659.431849] audit: rate limit exceeded
+[12659.432869] type=1400 audit(1716932566.548:259971): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12659.434260] type=1400 audit(1716932566.548:259972): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12659.435290] type=1400 audit(1716932566.548:259973): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12659.436173] type=1400 audit(1716932566.548:259974): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12660.440938] audit: audit_lost=215018 audit_rate_limit=5 audit_backlog_limit=64
+[12660.441065] type=1400 audit(1716932567.560:259999): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12660.441606] audit: rate limit exceeded
+[12660.443297] type=1400 audit(1716932567.560:260000): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12660.445828] type=1400 audit(1716932567.560:260001): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12660.447090] type=1400 audit(1716932567.560:260002): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12660.448179] type=1400 audit(1716932567.560:260003): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12661.453493] audit: audit_lost=215042 audit_rate_limit=5 audit_backlog_limit=64
+[12661.453564] type=1400 audit(1716932568.572:260028): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12661.453819] audit: rate limit exceeded
+[12661.455295] type=1400 audit(1716932568.572:260029): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12661.457236] type=1400 audit(1716932568.572:260030): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12661.459055] type=1400 audit(1716932568.572:260031): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12661.460574] type=1400 audit(1716932568.572:260032): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12662.461397] audit: audit_lost=215066 audit_rate_limit=5 audit_backlog_limit=64
+[12662.461570] type=1400 audit(1716932569.580:260057): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12662.461946] audit: rate limit exceeded
+[12662.463341] type=1400 audit(1716932569.580:260058): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12662.464962] type=1400 audit(1716932569.580:260059): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12662.466893] type=1400 audit(1716932569.580:260060): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12662.468414] type=1400 audit(1716932569.580:260061): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12663.469577] audit: audit_lost=215090 audit_rate_limit=5 audit_backlog_limit=64
+[12663.469720] type=1400 audit(1716932570.588:260086): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12663.470026] audit: rate limit exceeded
+[12663.471442] type=1400 audit(1716932570.588:260087): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12663.473483] type=1400 audit(1716932570.588:260088): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12663.475137] type=1400 audit(1716932570.588:260089): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12663.476544] type=1400 audit(1716932570.588:260090): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12664.477026] audit: audit_lost=215114 audit_rate_limit=5 audit_backlog_limit=64
+[12664.477238] type=1400 audit(1716932571.596:260115): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12664.477358] audit: rate limit exceeded
+[12664.478797] type=1400 audit(1716932571.596:260116): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12664.480930] type=1400 audit(1716932571.596:260117): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12664.482334] type=1400 audit(1716932571.596:260118): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12664.483209] type=1400 audit(1716932571.596:260119): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12665.484620] audit: audit_lost=215138 audit_rate_limit=5 audit_backlog_limit=64
+[12665.484788] type=1400 audit(1716932572.604:260144): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12665.484956] audit: rate limit exceeded
+[12665.486351] type=1400 audit(1716932572.604:260145): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12665.488218] type=1400 audit(1716932572.604:260146): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12665.489779] type=1400 audit(1716932572.604:260147): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12665.491313] type=1400 audit(1716932572.604:260148): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12666.491932] audit: audit_lost=215162 audit_rate_limit=5 audit_backlog_limit=64
+[12666.492130] type=1400 audit(1716932573.608:260173): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12666.492258] audit: rate limit exceeded
+[12666.493649] type=1400 audit(1716932573.608:260174): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12666.495439] type=1400 audit(1716932573.608:260175): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12666.497126] type=1400 audit(1716932573.608:260176): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12666.498628] type=1400 audit(1716932573.608:260177): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12667.499112] audit: audit_lost=215186 audit_rate_limit=5 audit_backlog_limit=64
+[12667.499288] type=1400 audit(1716932574.616:260202): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12667.499654] audit: rate limit exceeded
+[12667.501062] type=1400 audit(1716932574.616:260203): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12667.503100] type=1400 audit(1716932574.616:260204): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12667.504664] type=1400 audit(1716932574.616:260205): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12667.506089] type=1400 audit(1716932574.616:260206): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12667.885522] logd: logdr: UID=2000 GID=2000 PID=14415 b tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+[12668.511942] audit: audit_lost=215212 audit_rate_limit=5 audit_backlog_limit=64
+[12668.512040] type=1400 audit(1716932575.628:260233): avc: denied { getattr } for comm="DetectPable" path="/proc/dma" dev="proc" ino=4026532069 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12668.512601] audit: rate limit exceeded
+[12668.514208] type=1400 audit(1716932575.628:260234): avc: denied { getattr } for comm="DetectPable" path="/proc/keys" dev="proc" ino=4026532080 scontext=u:r:shell:s0 tcontext=u:object_r:proc_keys:s0 tclass=file permissive=0
+[12668.516327] type=1400 audit(1716932575.628:260235): avc: denied { getattr } for comm="DetectPable" path="/proc/kmsg" dev="proc" ino=4026532037 scontext=u:r:shell:s0 tcontext=u:object_r:proc_kmsg:s0 tclass=file permissive=0
+[12668.518005] type=1400 audit(1716932575.628:260236): avc: denied { getattr } for comm="DetectPable" path="/proc/misc" dev="proc" ino=4026532007 scontext=u:r:shell:s0 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0
+[12668.519695] type=1400 audit(1716932575.628:260237): avc: denied { getattr } for comm="DetectPable" path="/proc/mtrr" dev="proc" ino=4026532002 scontext=u:r:shell:s0 tcontext=u:object_r:proc:s0 tclass=file permissive=0
+[12668.542571] init: Untracked pid 4235 exited with status 0
+[12668.549102] init: Untracked pid 13547 exited with status 0
+[12668.549569] init: Untracked pid 12970 exited with status 0
+[12669.545352] init: Untracked pid 7106 received signal 1
+[12669.545669] init: Untracked pid 12969 received signal 1
+[12673.079797] type=1400 audit(1716932580.196:260262): avc: granted { execute } for comm="run-as" name="install_server-7acb30f1" dev="dm-5" ino=131319 scontext=u:r:runas_app:s0:c169,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c169,c256,c512,c768 tclass=file app=home.felipe.topswaptest
+[12673.082682] type=1400 audit(1716932580.196:260263): avc: granted { execute } for comm="install_server-" path="/data/data/home.felipe.topswaptest/code_cache/install_server-7acb30f1" dev="dm-5" ino=131319 scontext=u:r:runas_app:s0:c169,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c169,c256,c512,c768 tclass=file app=home.felipe.topswaptest
+[12673.545381] perfetto: enabled ftrace
+[12673.611267] type=1400 audit(1716932580.728:260264): avc: granted { execute } for comm="re-initialized>" path="/data/data/home.felipe.topswaptest/code_cache/startup_agents/7acb30f1-agent.so" dev="dm-5" ino=131629 scontext=u:r:untrusted_app:s0:c169,c256,c512,c768 tcontext=u:object_r:app_data_file:s0:c169,c256,c512,c768 tclass=file app=home.felipe.topswaptest
+[12678.320707] perfetto: disabled ftrace
+[12704.013284] type=1400 audit(1716990753.423:260265): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12704.018656] type=1400 audit(1716990753.427:260266): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12739.229696] type=1400 audit(1716990788.639:260267): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12739.233756] type=1400 audit(1716990788.643:260268): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12754.442856] type=1400 audit(1716990803.851:260269): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12754.444561] type=1400 audit(1716990803.855:260270): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12799.229245] type=1400 audit(1716990848.639:260271): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12799.231108] type=1400 audit(1716990848.639:260272): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12814.859594] type=1400 audit(1716990864.267:260273): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12814.863447] type=1400 audit(1716990864.271:260274): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12923.685511] type=1400 audit(1716990973.095:260275): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12923.689214] type=1400 audit(1716990973.099:260276): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12955.146968] type=1400 audit(1716991004.555:260277): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12955.148583] type=1400 audit(1716991004.559:260278): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12983.510834] type=1400 audit(1716991032.919:260279): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[12983.514623] type=1400 audit(1716991032.923:260280): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13005.578787] type=1400 audit(1716991054.987:260281): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13005.580203] type=1400 audit(1716991054.991:260282): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13169.968743] type=1400 audit(1716991219.379:260283): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13169.972483] type=1400 audit(1716991219.383:260284): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13185.291968] type=1400 audit(1716991234.699:260285): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13185.295028] type=1400 audit(1716991234.703:260286): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13210.413013] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[13224.433025] type=1400 audit(1716991273.843:260287): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13224.434658] type=1400 audit(1716991273.843:260288): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13239.564714] type=1400 audit(1716991288.975:260289): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13239.566987] type=1400 audit(1716991288.975:260290): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13284.524193] type=1400 audit(1716991333.935:260291): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13284.525938] type=1400 audit(1716991333.935:260292): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13299.723021] type=1400 audit(1716991349.131:260293): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13299.724731] type=1400 audit(1716991349.135:260294): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13400.222390] type=1400 audit(1716991449.631:260295): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13400.224341] type=1400 audit(1716991449.635:260296): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13415.690927] type=1400 audit(1716991465.099:260297): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13415.692758] type=1400 audit(1716991465.103:260298): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13520.905926] type=1400 audit(1716991570.315:260299): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13520.909935] type=1400 audit(1716991570.319:260300): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13536.011926] type=1400 audit(1716991585.419:260301): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13536.013842] type=1400 audit(1716991585.423:260302): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13630.573257] type=1400 audit(1716991679.983:260303): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13630.577425] type=1400 audit(1716991679.987:260304): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13645.836196] type=1400 audit(1716991695.243:260305): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13645.839999] type=1400 audit(1716991695.247:260306): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13666.808756] logd: logdr: UID=10122 GID=10122 PID=2344 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[13666.850070] type=1400 audit(1716991716.259:260307): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13666.851850] type=1400 audit(1716991716.259:260308): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13692.426167] type=1400 audit(1716991741.835:260309): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13692.427931] type=1400 audit(1716991741.835:260310): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13810.413062] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[13860.825237] type=1400 audit(1716991910.235:260311): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13860.828963] type=1400 audit(1716991910.239:260312): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13876.235899] type=1400 audit(1716991925.643:260313): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13876.239611] type=1400 audit(1716991925.647:260314): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13917.281906] type=1400 audit(1716991966.691:260315): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13917.285711] type=1400 audit(1716991966.695:260316): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13932.555804] type=1400 audit(1716991981.963:260317): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13932.559482] type=1400 audit(1716991981.967:260318): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13985.746924] type=1400 audit(1716992035.155:260319): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[13985.750731] type=1400 audit(1716992035.159:260320): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14000.907741] type=1400 audit(1716992050.315:260321): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14000.909504] type=1400 audit(1716992050.319:260322): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14091.168863] type=1400 audit(1716992140.579:260323): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14091.170567] type=1400 audit(1716992140.579:260324): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14106.635056] type=1400 audit(1716992156.043:260325): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14106.636777] type=1400 audit(1716992156.047:260326): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14321.438574] type=1400 audit(1716992370.847:260327): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14321.442268] type=1400 audit(1716992370.851:260328): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14336.779480] type=1400 audit(1716992386.187:260329): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14336.781057] type=1400 audit(1716992386.191:260330): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14400.074442] type=1400 audit(1716992449.483:260331): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14400.078144] type=1400 audit(1716992449.487:260332): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14410.412875] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[14477.734853] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[14483.101967] binder: undelivered TRANSACTION_COMPLETE
+[14483.102630] binder: undelivered transaction 746969, process died.
+[14483.103207] binder: undelivered transaction 746974, process died.
+[14485.082196] type=1400 audit(1716992534.491:260333): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14485.083827] type=1400 audit(1716992534.491:260334): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14500.107003] type=1400 audit(1716992549.515:260335): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14500.108726] type=1400 audit(1716992549.519:260336): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14551.766684] type=1400 audit(1716992601.175:260337): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14551.768477] type=1400 audit(1716992601.179:260338): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14567.179891] type=1400 audit(1716992616.587:260339): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14567.181582] type=1400 audit(1716992616.591:260340): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14586.892021] type=1400 audit(1716992636.299:260341): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14586.893662] type=1400 audit(1716992636.303:260342): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14601.995370] type=1400 audit(1716992651.403:260343): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14601.997977] type=1400 audit(1716992651.407:260344): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14717.964385] type=1400 audit(1716992767.375:260345): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14717.967089] type=1400 audit(1716992767.375:260346): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14733.066892] type=1400 audit(1716992782.475:260347): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14733.068522] type=1400 audit(1716992782.479:260348): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14782.065816] type=1400 audit(1716992831.475:260349): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14782.067526] type=1400 audit(1716992831.475:260350): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14797.579918] type=1400 audit(1716992846.987:260351): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14797.583629] type=1400 audit(1716992846.991:260352): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14876.280454] type=1400 audit(1716992925.691:260353): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14876.282143] type=1400 audit(1716992925.691:260354): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14891.532225] type=1400 audit(1716992940.943:260355): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[14891.535955] type=1400 audit(1716992940.943:260356): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15010.412549] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[15012.367851] type=1400 audit(1716993061.775:260357): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15012.371744] type=1400 audit(1716993061.779:260358): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15027.722981] type=1400 audit(1716993077.131:260359): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15027.724627] type=1400 audit(1716993077.135:260360): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15242.624960] type=1400 audit(1716993292.035:260361): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15242.628095] type=1400 audit(1716993292.035:260362): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15258.124125] type=1400 audit(1716993307.531:260363): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15258.127893] type=1400 audit(1716993307.535:260364): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15458.437385] type=1400 audit(1716993507.847:260365): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15458.441104] type=1400 audit(1716993507.851:260366): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15466.908093] logd: logdr: UID=10122 GID=10122 PID=2344 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[15488.268050] type=1400 audit(1716993537.675:260367): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15488.271869] type=1400 audit(1716993537.679:260368): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15610.412893] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[15703.135314] type=1400 audit(1716993752.543:260369): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15703.136908] type=1400 audit(1716993752.547:260370): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15723.276557] type=1400 audit(1716993772.687:260371): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15723.279424] type=1400 audit(1716993772.687:260372): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15725.658845] type=1400 audit(1716993775.067:260373): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15725.660521] type=1400 audit(1716993775.071:260374): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15740.683560] type=1400 audit(1716993790.091:260375): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15740.685576] type=1400 audit(1716993790.095:260376): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15767.860045] type=1400 audit(1716993817.267:260377): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15767.863472] type=1400 audit(1716993817.271:260378): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15783.436927] type=1400 audit(1716993832.847:260379): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15783.439898] type=1400 audit(1716993832.847:260380): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15933.468126] type=1400 audit(1716993982.875:260381): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15933.471959] type=1400 audit(1716993982.879:260382): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15948.811867] type=1400 audit(1716993998.219:260383): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[15948.815684] type=1400 audit(1716993998.223:260384): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16064.563870] type=1400 audit(1716994113.971:260385): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16064.565480] type=1400 audit(1716994113.975:260386): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16079.626788] type=1400 audit(1716994129.035:260387): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16079.628516] type=1400 audit(1716994129.039:260388): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16163.719137] type=1400 audit(1716994213.127:260389): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16163.723009] type=1400 audit(1716994213.131:260390): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16179.212062] type=1400 audit(1716994228.619:260391): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16179.215187] type=1400 audit(1716994228.623:260392): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16200.078927] type=1400 audit(1716994249.487:260393): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16200.082465] type=1400 audit(1716994249.491:260394): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16210.412938] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[16393.969715] type=1400 audit(1716994443.379:260395): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16393.973289] type=1400 audit(1716994443.383:260396): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16409.355289] type=1400 audit(1716994458.763:260397): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16409.357014] type=1400 audit(1716994458.767:260398): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16569.505970] type=1400 audit(1716994618.915:260399): avc: denied { syslog_read } for comm="dmesg" scontext=u:r:shell:s0 tcontext=u:r:kernel:s0 tclass=system permissive=0
+[16583.798280] type=1400 audit(1716994633.207:260400): avc: denied { syslog_read } for comm="dmesg" scontext=u:r:shell:s0 tcontext=u:r:kernel:s0 tclass=system permissive=0
+[16624.221012] type=1400 audit(1716994673.631:260401): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16624.222966] type=1400 audit(1716994673.631:260402): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16646.923296] type=1400 audit(1716994696.331:260403): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16646.925719] type=1400 audit(1716994696.335:260404): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16768.084239] type=1400 audit(1716994817.491:260405): avc: denied { syslog_read } for comm="dmesg" scontext=u:r:shell:s0 tcontext=u:r:kernel:s0 tclass=system permissive=0
+[16810.412968] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[16854.563665] type=1400 audit(1716994903.971:260406): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16854.567414] type=1400 audit(1716994903.975:260407): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16869.900142] type=1400 audit(1716994919.307:260408): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16869.902296] type=1400 audit(1716994919.311:260409): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16983.530093] init: Service 'adbd' (pid 385) exited with status 1
+[16983.530365] init: Sending signal 9 to service 'adbd' (pid 385) process group...
+[16983.535954] libprocessgroup: Successfully killed process cgroup uid 0 pid 385 in 5ms
+[16983.536897] init: Untracked pid 14473 exited with status 0
+[16983.537344] init: Untracked pid 5148 exited with status 0
+[16983.537776] init: Untracked pid 14415 received signal 1
+[16983.538192] init: Untracked pid 14435 received signal 9
+[16983.538617] init: Untracked pid 14470 received signal 9
+[16983.539034] init: Untracked pid 14472 received signal 1
+[16983.539524] init: starting service 'adbd'...
+[16983.540062] init: Created socket '/dev/socket/adbd', mode 660, user 1000, group 1000
+[16983.756229] type=1400 audit(1716995033.167:260410): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16983.760060] type=1400 audit(1716995033.167:260411): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[16984.827801] logd: logdr: UID=0 GID=0 PID=15560 b tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+[17010.112960] logd: Skipping 4294952237 entries from slow reader, pid 15560, from LogBuffer::kickMe()
+[17014.538745] type=1400 audit(1716995063.947:260412): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17014.540503] type=1400 audit(1716995063.951:260413): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17015.528069] type=1400 audit(1716995064.935:260414): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17015.529759] type=1400 audit(1716995064.939:260415): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17030.668540] type=1400 audit(1716995080.079:260416): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17030.672553] type=1400 audit(1716995080.083:260417): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17047.557899] type=1400 audit(1716995096.967:260418): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17047.559799] type=1400 audit(1716995096.967:260419): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17062.667868] type=1400 audit(1716995112.075:260420): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17062.671398] type=1400 audit(1716995112.079:260421): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17084.814929] type=1400 audit(1716995134.223:260422): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17084.819474] type=1400 audit(1716995134.227:260423): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17100.298571] type=1400 audit(1716995149.707:260424): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17100.300282] type=1400 audit(1716995149.711:260425): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17111.569393] type=1400 audit(1716995160.979:260426): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17111.572915] type=1400 audit(1716995160.983:260427): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17125.692834] logd: logdr: UID=0 GID=0 PID=15621 b tail=0 logMask=99 pid=0 start=0ns timeout=0ns
+[17126.667871] type=1400 audit(1716995176.075:260428): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17126.670466] type=1400 audit(1716995176.079:260429): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17208.240229] type=1400 audit(1716995257.647:260430): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17208.244500] type=1400 audit(1716995257.655:260431): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17223.436703] type=1400 audit(1716995272.847:260432): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17223.441070] type=1400 audit(1716995272.851:260433): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17266.967943] logd: logdr: UID=10122 GID=10122 PID=2344 n tail=0 logMask=4 pid=0 start=0ns timeout=0ns
+[17315.164818] type=1400 audit(1716995364.575:260434): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17315.168620] type=1400 audit(1716995364.579:260435): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17330.443067] type=1400 audit(1716995379.851:260436): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17330.444688] type=1400 audit(1716995379.855:260437): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17410.412706] healthd: battery l=100 v=5000 t=25.0 h=2 st=4 c=900000 fc=300000 cc=10 chg=
+[17545.418214] type=1400 audit(1716995594.827:260438): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17545.421978] type=1400 audit(1716995594.831:260439): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17560.842943] type=1400 audit(1716995610.251:260440): avc: denied { read } for comm="Binder:214_2" name="wakeup34" dev="sysfs" ino=19332 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
+[17560.844908] type=1400 audit(1716995610.255:260441): avc: denied { read } for comm="Binder:214_2" name="wakeup35" dev="sysfs" ino=19395 scontext=u:r:system_suspend:s0 tcontext=u:object_r:sysfs:s0 tclass=dir permissive=0
